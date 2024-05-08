@@ -2,6 +2,6 @@ public class helloworldjavatest{
 
 	public static void main(String[] args){
 		
-		System.out.println("Hello World  Azure DevOps !!!!");
+		System.out.println("Hello World AWS DevOps !!!!");
 	}
 }
